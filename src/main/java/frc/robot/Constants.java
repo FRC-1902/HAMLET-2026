@@ -51,8 +51,8 @@ public final class Constants
 
   public static class PneumaticsConstants
   {
-    public static final int PCM_ID = 1;
-    public static final int PCM_2_ID = 15;
+    public static final int PCM_ID = 15;
+    public static final int PCM_2_ID = 1;
     public static final int SOLENOID_FORWARD_CHANNEL = 0;
     public static final int SOLENOID_REVERSE_CHANNEL = 7;
   }
